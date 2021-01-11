@@ -1,0 +1,13 @@
+"D:\ti\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"D:\ti\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armstlink2.dll" 
+
+"C:\Users\subong\Desktop\can\TEST\TEST_SVMBOX\EWARM\TEST_SVMBOX\Exe\TEST_SVMBOX.out" 
+
+--plugin "D:\ti\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--flash_loader "D:\ti\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\flashloader\ST\FlashSTM32F04xx6.board" 
+
+
+
+
